@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://archive-w8xqjo.infiniteloopback.net/sitemap.xml
